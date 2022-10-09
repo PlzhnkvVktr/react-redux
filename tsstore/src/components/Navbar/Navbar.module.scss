@@ -1,0 +1,14 @@
+@import '../../styles/Variables.scss';
+
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    a {
+        text-decoration: none;
+        font-size: $nav-link__fz;
+        font-family: $font;
+        line-height: 50px;
+    }
+}
+

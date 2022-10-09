@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.user__info {
+    width: 100%;
+    display: flex;
+    
+
+    h3 {
+        line-height: 5px;
+        margin-right: 20px;
+    }
+}

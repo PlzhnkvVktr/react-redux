@@ -1,0 +1,14 @@
+.cart__container {
+    display: flex;
+}
+.product__list {
+    max-width: 60%;
+}
+.cartItem__container {
+    border: 2px solid orange;
+    border-radius: 10px;
+
+    p {
+        font-size: 18px;
+    }
+}
